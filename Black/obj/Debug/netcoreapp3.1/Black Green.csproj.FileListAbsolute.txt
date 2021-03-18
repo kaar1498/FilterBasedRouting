@@ -1,0 +1,16 @@
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\Black Green.exe
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\Black Green.deps.json
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\Black Green.runtimeconfig.json
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\Black Green.runtimeconfig.dev.json
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\Black Green.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\Black Green.pdb
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.csprojAssemblyReference.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.AssemblyInfoInputs.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.AssemblyInfo.cs
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.csproj.CoreCompileInputs.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.csproj.CopyComplete
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.pdb
+C:\Users\kaare\source\repos\FilterBasedRouting\Black\obj\Debug\netcoreapp3.1\Black Green.genruntimeconfig.cache

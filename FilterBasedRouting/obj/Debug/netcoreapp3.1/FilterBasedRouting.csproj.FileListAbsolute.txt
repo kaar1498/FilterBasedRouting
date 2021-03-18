@@ -1,0 +1,16 @@
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\FilterBasedRouting.exe
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\FilterBasedRouting.deps.json
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\FilterBasedRouting.runtimeconfig.json
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\FilterBasedRouting.runtimeconfig.dev.json
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\FilterBasedRouting.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\FilterBasedRouting.pdb
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.csprojAssemblyReference.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.AssemblyInfoInputs.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.AssemblyInfo.cs
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.csproj.CoreCompileInputs.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.csproj.CopyComplete
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.pdb
+C:\Users\kaare\source\repos\FilterBasedRouting\FilterBasedRouting\obj\Debug\netcoreapp3.1\FilterBasedRouting.genruntimeconfig.cache

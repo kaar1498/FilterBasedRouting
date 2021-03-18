@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "36sMoQBbDQWRbadJKlGoGqqvipuEL4i5rL6D69/eVa0t8P0Q6B6X+dWUmscCnJwR1VPmde/XVll7ZmnhYD3rVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaare\\source\\repos\\FilterBasedRouting\\Orange\\Orange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaare\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\kaare\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kaare\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

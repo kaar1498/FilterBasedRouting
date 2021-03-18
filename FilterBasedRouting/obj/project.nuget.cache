@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjCqOPJx5RaA/EauQPozXxiUTc4qvoNiN/sJN6VE8nNGHOxsyzKX2DJIQtJXHZRKiJQlZ1IyrRL+AlfBlyy1OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaare\\source\\repos\\FilterBasedRouting\\FilterBasedRouting\\FilterBasedRouting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaare\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\kaare\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kaare\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

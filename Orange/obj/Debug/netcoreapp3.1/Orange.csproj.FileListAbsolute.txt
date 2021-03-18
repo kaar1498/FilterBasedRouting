@@ -1,0 +1,16 @@
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\Orange.exe
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\Orange.deps.json
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\Orange.runtimeconfig.json
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\Orange.runtimeconfig.dev.json
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\Orange.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\Orange.pdb
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.csprojAssemblyReference.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.AssemblyInfoInputs.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.AssemblyInfo.cs
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.csproj.CoreCompileInputs.cache
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.csproj.CopyComplete
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.dll
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.pdb
+C:\Users\kaare\source\repos\FilterBasedRouting\Orange\obj\Debug\netcoreapp3.1\Orange.genruntimeconfig.cache
