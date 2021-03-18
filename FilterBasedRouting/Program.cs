@@ -33,7 +33,7 @@ namespace FilterBasedRouting
                 channel.ExchangeDeclare(exchange: "direct_logs",
                                         type: "direct");
 
-                var routingKey = "direct." + route;
+                var routingKey = "direct_" + route;
                 var theMessage = message;
                 var body = Encoding.UTF8.GetBytes(theMessage);
                 channel.BasicPublish(exchange: "direct_logs",
